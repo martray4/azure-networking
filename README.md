@@ -14,7 +14,7 @@ This tutorial outlines the steps on how to create resource groups with Microsoft
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Azure Subscription
--Remote Desktop
+- Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
 
